@@ -14,4 +14,4 @@ En este proyecto, compararemos las preferencias musicales de las ciudades de **S
 2. Los lunes por la mañana, los habitantes de Springfield y Shelbyville escuchan diferentes géneros. Lo mismo ocurre con los viernes por la noche.
 3. Los oyentes de Springfield y Shelbyville tienen preferencias distintas. En Springfield prefieren el pop mientras que en Shelbyville hay más aficionados al rap.
 
-4. [Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Y_Music_Project.ipynb)
+[Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Y_Music_Project.ipynb)
