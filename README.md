@@ -20,4 +20,13 @@ En este proyecto, compararemos las preferencias musicales de las ciudades de **S
 ## Proyecto 2: Puntuación de Crédito
 
 Este proyecto consiste en preparar un informe para la división de préstamos de un banco. Deberemos averiguar si el estado civil y el número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo. El banco ya tiene algunos datos sobre la solvencia crediticia de los clientes.
+
 El informe se tendrá en cuenta al crear una puntuación de crédito para un cliente potencial. Se utiliza una puntuación de crédito para evaluar la capacidad de un prestatario potencial para pagar su préstamo.
+
+**Hipótesis**
+1. ¿Hay alguna conexión entre tener hijos y pagar un préstamo a tiempo?
+2. ¿Existe una conexión entre el estado civil y el pago a tiempo de un préstamo?
+3. ¿Existe una conexión entre el nivel de ingresos y el pago a tiempo de un préstamo?
+4. ¿Cómo afectan los diferentes propósitos del préstamo al reembolso a tiempo del préstamo?
+
+[Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Ana%CC%81lisis_de_Riesgo_Bancario_ESP.ipynb)
