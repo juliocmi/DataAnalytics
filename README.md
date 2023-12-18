@@ -15,3 +15,9 @@ En este proyecto, compararemos las preferencias musicales de las ciudades de **S
 3. Los oyentes de Springfield y Shelbyville tienen preferencias distintas. En Springfield prefieren el pop mientras que en Shelbyville hay más aficionados al rap.
 
 [Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Y_Music_Project.ipynb)
+
+
+## Proyecto 2: Puntuación de Crédito
+
+Este proyecto consiste en preparar un informe para la división de préstamos de un banco. Deberemos averiguar si el estado civil y el número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo. El banco ya tiene algunos datos sobre la solvencia crediticia de los clientes.
+El informe se tendrá en cuenta al crear una puntuación de crédito para un cliente potencial. Se utiliza una puntuación de crédito para evaluar la capacidad de un prestatario potencial para pagar su préstamo.
