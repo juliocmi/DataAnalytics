@@ -4,6 +4,25 @@ Con el tiempo estaré actualizando este portafolio, y a su vez, agregando más p
 
 Este repositorio está realizado en el lenguaje de programación de **Python** y es una vista hacia el potencial y las capacidades que poseo para realizar proyectos importantes en el área de la analítica de datos. El orden del portafolio es inverso, esto quiere decir que podrás ver los proyectos más recientes primero y los proyectos más antiguos al final de la hoja.
 
+## Proyecto 4: Ice VideoGames
+
+Trabajamos para la tienda online **Ice** que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tenemos que identificar patrones que determinen si un juego tiene éxito o no. Esto nos permitirá detectar proyectos prometedores y planificar campañas publicitarias.
+
+Tenemos datos que se remontan a 2016. Imaginemos que es diciembre de 2016 y estamos planeando una campaña para 2017.
+(Lo importante es adquirir experiencia de trabajo con datos. Realmente no importa si estamos pronosticando las ventas de 2017 en función de los datos de 2016 o las ventas de 2027 en función de los datos de 2026). El dataset contiene la abreviatura ESRB. The Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
+
+**HIPÓTESIS**
+
+- Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.
+- Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes. Estableceremos el valor de umbral alfa.
+
+Explicar:
+
+- Cómo formulamos las hipótesis nula y alternativa.
+- Qué criterio utilizamos para probar las hipótesis y por qué
+
+[Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Megaline_Data_Analyst.ipynb)
+
 ## Proyecto 3: Crankshaft List
 
 En este proyecto seremos analistas en **Crankshaft List**. Cientos de anuncios gratuitos de vehículos se publican en el sitio web cada día. Necesitamos estudiar los datos recopilados durante los últimos años y determinar qué factores influyen en el precio de un vehículo.
