@@ -17,7 +17,7 @@ En este proyecto, compararemos las preferencias musicales de las ciudades de **S
 [Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Y_Music_Project.ipynb)
 
 
-## Proyecto 2: Puntuación de Crédito
+## Proyecto 2: Puntuación de Crédito Bancario
 
 Este proyecto consiste en preparar un informe para la división de préstamos de un banco. Deberemos averiguar si el estado civil y el número de hijos de un cliente tienen un impacto en el incumplimiento de pago de un préstamo. El banco ya tiene algunos datos sobre la solvencia crediticia de los clientes.
 
