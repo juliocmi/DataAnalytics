@@ -25,7 +25,7 @@ Este proyecto consiste en preparar un informe para la división de préstamos de
 
 El informe se tendrá en cuenta al crear una puntuación de crédito para un cliente potencial. Se utiliza una puntuación de crédito para evaluar la capacidad de un prestatario potencial para pagar su préstamo.
 
-**Hipótesis**
+**HIPÓTESIS**
 1. ¿Hay alguna conexión entre tener hijos y pagar un préstamo a tiempo?
 2. ¿Existe una conexión entre el estado civil y el pago a tiempo de un préstamo?
 3. ¿Existe una conexión entre el nivel de ingresos y el pago a tiempo de un préstamo?
@@ -38,7 +38,7 @@ Siempre que realizamos un análisis tenemos que formular hipótesis que luego po
 
 En este proyecto, compararemos las preferencias musicales de las ciudades de **Springfield** y **Shelbyville**. Se examinarán datos reales de **Y.Music** para comprobar las hipótesis que se exponen a continuación y comparar el uso de los usuarios de estas dos ciudades.
 
-**Hipótesis**
+**HIPÓTESIS**
 1. La actividad de los usuarios difiere según el día de la semana y dependiendo de la ciudad.
 2. Los lunes por la mañana, los habitantes de Springfield y Shelbyville escuchan diferentes géneros. Lo mismo ocurre con los viernes por la noche.
 3. Los oyentes de Springfield y Shelbyville tienen preferencias distintas. En Springfield prefieren el pop mientras que en Shelbyville hay más aficionados al rap.
