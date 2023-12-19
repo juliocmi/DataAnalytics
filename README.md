@@ -30,3 +30,18 @@ El informe se tendrá en cuenta al crear una puntuación de crédito para un cli
 4. ¿Cómo afectan los diferentes propósitos del préstamo al reembolso a tiempo del préstamo?
 
 [Ver Proyecto](https://github.com/juliocmi/DataAnalytics/blob/main/Projects_DA/Ana%CC%81lisis_de_Riesgo_Bancario_ESP.ipynb)
+
+## Proyecto 3: Crankshaft List
+
+En este proyecto seremos analistas en **Crankshaft List**. Cientos de anuncios gratuitos de vehículos se publican en el sitio web cada día. Necesitamos estudiar los datos recopilados durante los últimos años y determinar qué factores influyen en el precio de un vehículo.
+
+**INSTRUCCIONES**
+
+- Estudiar los siguientes parámetros: precio, años del vehículo cuando se colocó el anuncio, millaje, número de cilindrada y condición.
+- Trazar histogramas para cada uno de los parámetros.
+- Estudiar cómo los valores atípicos afectan a la forma y legitimidad de los histogramas.
+- Estudiar cuántos días los anuncios fueron mostrados `(days_listed)`. Trazaremos un histograma. Calcularemos la media y la mediana. Describiremos la vida útil habitual de un anuncio. Determinaremos cuándo se eliminan rápidamente los anuncios y cuándo son publicados por un tiempo anormalmente largo.
+- Analizaremos el número de anuncios y el precio medio para cada tipo de vehículo. Trazaremos un gráfico mostrando la dependencia de los números de anuncios en cada tipo de vehículo. Seleccionaremos los dos tipos con un mayor número de anuncios.
+- ¿Qué factores impactan más sobre el precio? Tomaremos cada uno de los tipos más populares que has detectado en la fase anterior y estudiaremos si el precio depende de la edad, millaje, condición, tipo de transmisión y color. Para las variables categóricas (tipo de transmisión y color), trazaremos gráficos de caja y bigotes, y crearemos gráficos de dispersión para el resto.
+
+[Ver Proyecto]()
